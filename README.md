@@ -2,7 +2,7 @@
 
 ### Install FFmpeg
 Install FFmpeg for your OS following the instruction given below:  
- - (https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)[https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg]
+ - [https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
   - **Ubuntu**
     - sudo add-apt-repository ppa:mc3man/trusty-media  
     - sudo apt-get update  
