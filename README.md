@@ -26,7 +26,7 @@ After that you need to add the libary to your system path for python to be able 
 ### Run `audio_trimmer.py` file
   -  `python3`
   - `from audio_trimmer import  *`
-  - `audioTrimmer('let',0,00,0,30)`
+  - `audioTrimmer('mp3','let.mp3','mp3',0,00,0,30)`
 
 ### Output
   - Inside `mp3` folder `let-extract.mp3`
